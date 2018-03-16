@@ -1,4 +1,4 @@
-# JQuery Snake
+# jQuery Snake
 
 Link to deployment:
 https://snake-yimd85.herokuapp.com/
